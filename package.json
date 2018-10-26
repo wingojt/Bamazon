@@ -1,0 +1,23 @@
+{
+  "name": "sql",
+  "version": "1.0.0",
+  "description": "a CLI app using Node and SQL",
+  "main": "shopper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wingojt/Node-SQL.git"
+  },
+  "author": "James Wingo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wingojt/Node-SQL/issues"
+  },
+  "homepage": "https://github.com/wingojt/Node-SQL#readme",
+  "dependencies": {
+    "inquirer": "^6.2.0",
+    "mysql": "^2.16.0"
+  }
+}
