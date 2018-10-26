@@ -16,13 +16,15 @@ The bamazonCustomer app will automatically display the current available invento
 
 Once the inventory has been viewed, the user can select an item to purchase.
 
-![2](https://user-images.githubusercontent.com/40842112/47596692-fde6a980-d955-11e8-933b-6709dfb12663.PNG)
-
 Users are currently limited to single-item purchases only. 
 
 # Step Three: Confirmation and Total
 
 The bamazonCustomer app then displays the user's choice for them along with the total of their purchase.
+
+![2](https://user-images.githubusercontent.com/40842112/47596692-fde6a980-d955-11e8-933b-6709dfb12663.PNG)
+
+After each purchase is made, the inventory view is brought back up so users are able to see how their purchase has affected the number of available items in stock.
 
 ![3](https://user-images.githubusercontent.com/40842112/47596693-00490380-d956-11e8-8006-f5358b155703.PNG)
 
